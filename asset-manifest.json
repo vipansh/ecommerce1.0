@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/ecommerce1.0/static/css/main.b2d9416d.chunk.css",
+    "main.js": "/ecommerce1.0/static/js/main.d9f7712b.chunk.js",
+    "main.js.map": "/ecommerce1.0/static/js/main.d9f7712b.chunk.js.map",
+    "runtime-main.js": "/ecommerce1.0/static/js/runtime-main.64b55bc9.js",
+    "runtime-main.js.map": "/ecommerce1.0/static/js/runtime-main.64b55bc9.js.map",
+    "static/js/2.fa32d9dc.chunk.js": "/ecommerce1.0/static/js/2.fa32d9dc.chunk.js",
+    "static/js/2.fa32d9dc.chunk.js.map": "/ecommerce1.0/static/js/2.fa32d9dc.chunk.js.map",
+    "index.html": "/ecommerce1.0/index.html",
+    "precache-manifest.0f4a113047ecf4200ab82e5d722c3a0b.js": "/ecommerce1.0/precache-manifest.0f4a113047ecf4200ab82e5d722c3a0b.js",
+    "service-worker.js": "/ecommerce1.0/service-worker.js",
+    "static/css/main.b2d9416d.chunk.css.map": "/ecommerce1.0/static/css/main.b2d9416d.chunk.css.map",
+    "static/js/2.fa32d9dc.chunk.js.LICENSE.txt": "/ecommerce1.0/static/js/2.fa32d9dc.chunk.js.LICENSE.txt",
+    "static/media/accelerator.jpg": "/ecommerce1.0/static/media/accelerator.9354ed0a.jpg",
+    "static/media/airport.jpg": "/ecommerce1.0/static/media/airport.4f2bfca9.jpg",
+    "static/media/alchemy.jpg": "/ecommerce1.0/static/media/alchemy.6d80b19c.jpg",
+    "static/media/laptop.jpg": "/ecommerce1.0/static/media/laptop.229537af.jpg",
+    "static/media/main.css": "/ecommerce1.0/static/media/vipansh-pic.6b5f7c09.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.64b55bc9.js",
+    "static/js/2.fa32d9dc.chunk.js",
+    "static/css/main.b2d9416d.chunk.css",
+    "static/js/main.d9f7712b.chunk.js"
+  ]
+}
